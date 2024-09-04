@@ -1,0 +1,24 @@
+{
+  "users": [
+   {
+    "id" :1,
+    "name": "smangaliso",
+    "email":"smangaliso@gmail.com",
+    "phone":"0713347617"
+   }
+
+  ],
+  "bookings":[
+     {
+      "userId":1
+     }
+  ],
+  "listings": [
+   {
+    "id":1
+  }
+  ],
+  "profile": {
+    "name": " typicode"
+  }
+}

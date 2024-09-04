@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "Second Post"
+    },
+    {
+      "id": "1950",
+      "title": "airbnb clone",
+      "author": "Smanga"
+    },
+    {
+      "id": "5511",
+      "title": "airbnb clone",
+      "author": "Smanga"
+    },
+    {
+      "id": "d72f",
+      "title": "airbnb clone",
+      "author": "Smanga"
+    },
+    {
+      "id": "5c24",
+      "title": "airbnb clone",
+      "author": "Smanga"
+    },
+    {
+      "id": "789b",
+      "title": "airbnb clone",
+      "author": "Smanga"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "body": "Great post!"
+    },
+    {
+      "id": 2,
+      "postId": 2,
+      "body": "Thanks for the info."
+    }
+  ],
+  "profile": {
+    "name": " typicode"
+  }
+}

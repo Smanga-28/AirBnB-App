@@ -1,0 +1,25 @@
+
+GET http://localhost:5001/users
+###
+POST http://localhost:5001/register
+ content-type: application/json
+ {
+    "email":"smangaliso@gmail.com",
+    "password":"1234567"
+ }
+###
+GET http://localhost:5001/bookings
+###
+GET http://localhost:5001/listings
+###
+POST http://localhost:5001/posts
+content-type: application/json
+
+{
+    "title" : "airbnb clone",
+    "author" : "Smanga"
+}
+###
+#sign in
+POST http://localhost:5001/login
+content-type: application/json
